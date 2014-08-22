@@ -1,0 +1,11 @@
+
+
+
+
+
+
+        <p>HTML es una estructura de tipo Grafo, EN ARBOL</p>
+	<p>!!Separar los idiomas de la pagina por subdominios, es.btsa-es.com en.btsa-es.com</p>
+	<p>!!Meta keywords no sirve para nada, comprobar que en la nueva web de btsa no se añade!!</p>
+	<p>No repetir el titulo y el meta description en varias webs</p>
+	<p>!!Ghost CMS creado en nodejs!!</p>
